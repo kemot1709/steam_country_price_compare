@@ -1,0 +1,5 @@
+# JetBrains
+.idea/*
+
+# Big files
+data/id2name_list

@@ -3,3 +3,6 @@
 
 # Big files
 data/id2name_list
+
+# Python
+*__pycache__
